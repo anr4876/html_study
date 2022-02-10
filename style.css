@@ -1,0 +1,21 @@
+h1 {
+    color:aquamarine;
+    background-color:white;
+    
+}
+hr {
+    background-color:blue;
+}
+h6{
+    color:gray;
+    opacity:0.3;
+}
+
+a {
+    color:blue; 
+    text-decoration: underline; 
+}
+
+body {
+    background-color:aquamarine;
+}
