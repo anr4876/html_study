@@ -1,8 +1,21 @@
+
 h1 {
     color:aquamarine;
+    font-family: 'Nanum Pen Script', cursive;
     background-color:white;
     
 }
+h1 span:nth-child(6){
+    color:rgb(6, 189, 245);
+    font-weight: larger;
+    font-size:50;
+}
+h1 span:nth-child(5){
+    color:rgb(6, 189, 245);
+    font-weight: larger;
+    font-size:50;
+}
+
 hr {
     background-color:blue;
 }
@@ -18,4 +31,7 @@ a {
 
 body {
     background-color:aquamarine;
+}
+p {
+    font-family: 'Nanum Brush Script', cursive;
 }

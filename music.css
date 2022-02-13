@@ -1,0 +1,27 @@
+.box1{
+    display: inlines;
+    background-color:aqua ;
+    padding: .1rem 5rem .1rem .1rem ;
+    margin: 1rem 20rem 1rem 1rem;
+    border-radius: 10rem;
+}
+
+.margin_top1{
+    margin-top: 3rem;
+}
+
+.color{
+    color:rgb(173, 127, 233) ;
+    font-size: 1.4rem;
+    font-weight: 900;
+    
+}
+
+.box2{
+    display: inline-block;
+    margin: 1rem;
+    padding: 1rem;
+    background: linear-gradient( to right, rgb(0, 255, 106), rgb(127, 185, 219));
+    
+}
+
