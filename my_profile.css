@@ -1,0 +1,8 @@
+ div{
+    width: 500px;
+    height: 500px;
+    background-image: url("https://cdn.xelf.io/resources/image/20190121/20190121005241720722651550.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+ }
