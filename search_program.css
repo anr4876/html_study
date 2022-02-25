@@ -25,3 +25,31 @@
     .search-bar {
         width: 500px;
     }
+
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:nowrap;
+    justify-content: center;
+    
+}
+
+.box{
+    position:initial;
+    margin: 10px;
+    width: 80px;
+    height: 90px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2.5px rgb(138, 136, 136) ;   
+    text-align: center;
+    text-decoration: none;
+    color:black;
+}
+
+.ball{
+    width: 35px;
+    height: 35px;
+    border-radius: 50px;
+    margin-top: 17%;
+    
+ }
